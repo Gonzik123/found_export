@@ -1,0 +1,15 @@
+# Файл с выводом программы
+output.txt
+
+# виртуальное окружение Python
+venv/
+
+# Скомпилированные файлы и бинарники
+dist/
+window.exe
+window.spec
+window.py
+build/ 
+
+# черновики кода
+test.py
