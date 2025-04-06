@@ -5,11 +5,8 @@ output.txt
 venv/
 
 # Скомпилированные файлы и бинарники
-dist/
-window.exe
-window.spec
+input.txt
 window.py
-build/ 
-
+export/
 # черновики кода
 test.py
